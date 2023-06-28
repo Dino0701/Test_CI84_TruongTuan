@@ -1,0 +1,33 @@
+.todoMain{
+  background: #fff;
+  margin-top: 60px;
+  width: 280px;
+  padding-bottom: 60px;
+  text-align: center;
+  border: 2px solid #999999ff;
+  box-shadow: 2px 4px #999999ff;
+  border-radius: 10px;
+}
+button {
+  background: ;
+  border: none;
+  margin: 10px;
+  border-radius: 10px;
+  line-height: 20px;
+  
+}
+button:hover{
+  border-bottom: 1px solid blue;
+}
+button[type="submit"]{
+  background-color: aqua;
+  font-size: 20px;
+  padding: 5px;
+  color: #fff
+  
+}
+button[type="submit"]:hover{
+  border-bottom: none;
+  background-color: #fff;
+  color: aqua;
+}
